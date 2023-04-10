@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="1013" height="1181" border="1" align="center">
+  <tbody>
+    <tr>
+      <th width="1003" height="468" align="center" valign="middle" style="text-align: left" scope="col"><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></th>
+    </tr>
+    <tr>
+      <td height="152" style="text-align: left"><p><strong>研究领域：</strong></p>
+      <!-- TemplateBeginEditable name="EditRegion4" -->EditRegion4<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><strong>教育背景：</strong></p>
+      <!-- TemplateBeginEditable name="EditRegion5" -->EditRegion5<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><strong>工作履历：</strong></p>
+      <!-- TemplateBeginEditable name="EditRegion6" -->EditRegion6<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><strong>主持项目：</strong></p>
+      <!-- TemplateBeginEditable name="EditRegion7" -->EditRegion7<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><strong>代表期刊论文 ：</strong></p>
+      <!-- TemplateBeginEditable name="EditRegion8" -->EditRegion8<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><strong>获得荣誉：</strong></p>
+      <!-- TemplateBeginEditable name="EditRegion9" -->EditRegion9<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><p><strong>主要学术兼职：</strong></p>
+      <!-- TemplateBeginEditable name="EditRegion10" -->EditRegion10<!-- TemplateEndEditable --><br></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
